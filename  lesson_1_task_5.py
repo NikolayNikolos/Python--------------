@@ -1,0 +1,6 @@
+first_name = ("Nikolay ")
+last_name = ("Suslov ")
+print("Вас зовут: "  + first_name + last_name)
+print('"Khal Drogo\'s favorite word is \"athjahakar\""' )
+print('- Did Joffrey agree?\n- He did. He also said \"I love using \\n".')
+print("Winter" + ' came' + " for" + " the" + " House" + " of" + " Frey.")
