@@ -1,4 +1,3 @@
-
 class User:
     def __init__(self, first_name, last_name):
         self.name = first_name
@@ -12,4 +11,5 @@ class User:
 
     def My_name_is(self):
         print("Меня зовут:", self.name, self.surname)
+
         
