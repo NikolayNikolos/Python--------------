@@ -3,10 +3,10 @@ class User:
         self.name = first_name
         self.surname = last_name
 
-    def Name(self):
+    def my_Name(self):
         print("Моё имя:", self.name)
 
-    def surName(self):
+    def sur_Name(self):
         print("Моя фамилия:", self.surname)
 
     def My_name_is(self):

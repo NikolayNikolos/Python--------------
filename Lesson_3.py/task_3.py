@@ -1,4 +1,4 @@
-from addres import Address
+from address import Address
 from mailing import Mailing
 
 to_address = Address("100123", "Москва", "Абрикосова", "1", "5")
