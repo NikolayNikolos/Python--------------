@@ -7,8 +7,8 @@ catalog =  [
     Smartphone("POCO", "F3", "+7(777)777-77-77"),
     Smartphone("XIAOMI","13T", "+7(666)666-66-66")
 ]
-for smartphone in catalog:
-    print(f"{smartphone.phone_brand} - {smartphone.phone_model}."
-          f"{smartphone.nomer}")
+for phone in catalog:
+    print(f"{phone.phone_brand} - {phone.phone_model}."
+          f"{phone.nomer}")
 
    

@@ -3,13 +3,13 @@ class User:
         self.name = first_name
         self.surname = last_name
 
-    def my_Name(self):
+    def print_name(self):
         print("Моё имя:", self.name)
 
-    def sur_Name(self):
+    def print_surname(self):
         print("Моя фамилия:", self.surname)
 
-    def My_name_is(self):
+    def print_my_name_is(self):
         print("Меня зовут:", self.name, self.surname)
 
         
