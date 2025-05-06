@@ -2,12 +2,12 @@ class StringUtils:
 
    
     
-    def capitilize(self, string2: str) -> str:
+    def capitilize(self, string: str) -> str:
        """ing
         Принимает на вход текст, делает первую букву заглавной и возвращает этот же текст
         Пример: `capitilize("skypro") -> "Skypro"`
         """
-       return string2.capitalize()
+       return string.capitalize()
 
     
     def trim(self, string: str) -> str:
